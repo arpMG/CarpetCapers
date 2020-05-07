@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<quality>
+		<name>
+			Standard
+		</name>
+		<price>
+			125.00
+		</price>
+	</quality>
+	<quality>
+		<name>
+			Premi5um
+		</name>
+		<price>
+			180.00
+		</price>
+	</quality>
+	<quality>
+		<name>
+			Executive
+		</name>
+		<price>
+			210.00
+		</price>
+	</quality>
+		<quality>
+		<name>
+			Super Dooper
+		</name>
+		<price>
+			1210.00
+		</price>
+	</quality>
+</items>

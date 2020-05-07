@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+	<quality>
+		<name>
+			Standard
+		</name>
+		<price>
+			120.00
+		</price>
+	</quality>
+	<quality>
+		<name>
+			Premium
+		</name>
+		<price>
+			180.00
+		</price>
+	</quality>
+	<quality>
+		<name>
+			Executive
+		</name>
+		<price>
+			210.00
+		</price>
+	</quality>
+</items>
